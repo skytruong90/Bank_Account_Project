@@ -7,7 +7,7 @@
 3. Run the project with any IDE.
 
 ## My Objective: 
-### The Bank Account Project is another java application I made. I did have a little fun with this one because it's the first time I've made something essential to everyone's life.
+### Was to design a bank account simulation account in Java for end user to use like a regular bank. 
 
 ## Sceenshot:
 <img src= "" width="700">
