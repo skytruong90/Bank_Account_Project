@@ -1,6 +1,31 @@
-# BankofValdostaCorp
-The Bank of Valdosta Corp. is another java application I made in computer science. 
-I did have a little fun with this one because it's the first time I've made something essential to everyone's life.
-I want to be able to put the things I learned creating this into making something like a calculator app that will transform into a vault.
-For things you don't want people to see for your own privacy. 
-For example,photos passwords or just personal notes, but you will need to type in a certain equation on the calculator to get in it ;) ​
+# Title: Bank Account Project
+### I worked on this by myself anc the programming lanuage I used is Java. 
+
+## How to install:
+1. Clone the repository: 
+2. The main code is inside the code folder when you download everything.
+3. Run the project with any IDE.
+
+## My Objective: 
+### The Bank Account Project is another java application I made. I did have a little fun with this one because it's the first time I've made something essential to everyone's life.
+
+## Sceenshot:
+<img src= "" width="700">
+
+## What did I learned:
+Database
+
+Backend API
+
+React, etc.
+
+## What I would improved:
+1. Run more unit testing.
+2. Modified on existing codes like making it shorter. 
+3. Add more functionality. 
+
+## Key feature:
+1. 
+2. 
+3.
+
