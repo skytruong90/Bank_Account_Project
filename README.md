@@ -1,4 +1,3 @@
-# Bank_Account_Project
 # Title: Bank Account Project
 ### I worked on this side project by myself to showcase different things you can make with Java.
 
