@@ -1,5 +1,5 @@
 # Title: Bank Account Project
-### I worked on this by myself anc the programming lanuage I used is Java. 
+### I worked on this by myself anc the programming language I used is Java. 
 
 ## How to install:
 1. Clone the repository: 
