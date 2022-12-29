@@ -13,11 +13,7 @@
 <img src= "" width="700">
 
 ## What did I learned:
-Database
 
-Backend API
-
-React, etc.
 
 ## What I would improved:
 1. Run more unit testing.
@@ -28,4 +24,3 @@ React, etc.
 1. 
 2. 
 3.
-
